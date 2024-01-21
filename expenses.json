@@ -1,0 +1,38 @@
+{
+  "categories": [
+    "food",
+    "trip"
+  ],
+  "transactions": [
+    {
+      "timestamp": "2024-01-18 21:48:31",
+      "category": "food",
+      "amount": 50.0,
+      "description": "fruits"
+    },
+    {
+      "timestamp": "2024-01-18 21:49:11",
+      "category": "food",
+      "amount": 40.0,
+      "description": "sea"
+    },
+    {
+      "timestamp": "2024-01-18 21:49:25",
+      "category": "snow",
+      "amount": 80.0,
+      "description": "trip"
+    },
+    {
+      "timestamp": "2024-01-18 21:52:54",
+      "category": "food",
+      "amount": 30.0,
+      "description": "dates"
+    },
+    {
+      "timestamp": "2024-01-18 21:53:04",
+      "category": "trip",
+      "amount": 50.0,
+      "description": "eat"
+    }
+  ]
+}
